@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/8d/e8/c8/8de8c8c1edaa93c8c85b6dc3b388d67e.jpg" align="center"  style="width:100%; height:300px; object-fit:cover; object-position:center top;" />
+<img src="https://i.pinimg.com/736x/8d/e8/c8/8de8c8c1edaa93c8c85b6dc3b388d67e.jpg" align="center"  style="width:100%; />
 </div>  
   
 
@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tecnologías que uso 
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contacta Conmigo
 <div align="center">
 <a href="https://github.com/jescarcon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -86,7 +86,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jescarcon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
