@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/8d/e8/c8/8de8c8c1edaa93c8c85b6dc3b388d67e.jpg" align="center"  style="width:100%; />
+<img src="https://i.pinimg.com/736x/8d/e8/c8/8de8c8c1edaa93c8c85b6dc3b388d67e.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -12,7 +12,7 @@
 <br/>  
 
 
-## Tecnologías que uso 
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Contacta Conmigo
+## Connect with me  
 <div align="center">
 <a href="https://github.com/jescarcon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -86,13 +86,12 @@
 <br/>  
 
 
-## Estadísticas de Github   
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jescarcon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>    
 
-<br/>  
-
-  
+ 
 
 <br/>  
 
@@ -100,8 +99,6 @@
 <img src="https://komarev.com/ghpvc/?username=jescarcon&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
 
 
 <br />
